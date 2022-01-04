@@ -1,0 +1,9 @@
+.details{
+    display: inline-block;
+    height:'60px';
+    width:10%;
+    background-color: rgb(122, 117, 117);
+    color: white;
+    padding:1%;
+    margin:1%;
+}

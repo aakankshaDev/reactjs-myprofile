@@ -1,0 +1,19 @@
+.nav{
+    float: right;
+}
+.menu-header{
+    background-color: white;
+    padding: '20px';
+    margin-right: 50px;
+    
+}
+
+.menu-list{
+    display: inline-block;
+    background-color:white ;
+    margin: 10px;
+    font-size: 20px;
+    color: rgb(122, 117, 117);
+    margin:10px;
+    font-family:cursive;
+}

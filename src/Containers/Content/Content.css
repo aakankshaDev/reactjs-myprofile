@@ -1,0 +1,22 @@
+.content{
+    background-color: white;
+    height:auto;
+    width: 100%;
+    padding-top: 4%;
+    padding-bottom: 3%;
+    text-align: left;
+    /* margin: 15px; */
+    /* font-size: 30px; */
+    font-weight: bold;
+    font-family:cursive;
+    color: rgb(122, 117, 117);
+    margin-left: 50px;
+}
+
+.content h1{
+    font-size: 55px;
+}
+
+.content h2{
+    padding-top: 15px;
+}

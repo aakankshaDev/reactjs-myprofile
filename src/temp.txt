@@ -1,0 +1,20 @@
+**Decorations/Declarations:
+    -Apply light/dark theme based on user choice
+    -Backend to be built on Node.js
+
+LoginPage
+ -Header
+ -Content
+    -Login
+    -SignUp
+    -Continue as a Guest
+ -Footer
+HomePage
+ -Header
+ -Content
+    -Login/SignUp
+        -Tiles to enroll
+            -CourseNames
+    -Guest
+        -Summary of the Content
+ -Footer
